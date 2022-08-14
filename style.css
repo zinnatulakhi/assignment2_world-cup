@@ -214,7 +214,7 @@ button {
 
 }
 
-.socials {
+.social-media {
     padding-bottom: 20px;
     font-size: 1.5rem;
     width: 300px;
@@ -223,7 +223,7 @@ button {
     justify-content: space-around;
 }
 
-.socials a {
+.social-media a {
     color: white;
     text-decoration: none;
 }
